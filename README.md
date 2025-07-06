@@ -1,0 +1,2 @@
+# -docker-questoes-
+-docker-paradigmas- 
